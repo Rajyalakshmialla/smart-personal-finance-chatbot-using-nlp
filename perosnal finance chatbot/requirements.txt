@@ -1,0 +1,9 @@
+flask
+matplotlib
+nltk
+spacy
+transformers
+torch
+plyer
+schedule
+flask-cors
